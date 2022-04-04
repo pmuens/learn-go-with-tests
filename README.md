@@ -12,6 +12,7 @@ go build
 go test
 go test -v
 go test -bench=.
+go test -cover
 
 go fmt
 
