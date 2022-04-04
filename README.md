@@ -10,6 +10,8 @@ go run <name>
 go build
 
 go test
+go test -v
+go test -bench=.
 
 go fmt
 
