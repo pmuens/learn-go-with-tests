@@ -13,6 +13,7 @@ go test
 go test -v
 go test -bench=.
 go test -cover
+go test -run FuncName/RunName
 
 go fmt
 
