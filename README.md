@@ -18,5 +18,7 @@ go test -run FuncName/RunName
 
 go fmt
 
+go vet
+
 go clean
 ```
